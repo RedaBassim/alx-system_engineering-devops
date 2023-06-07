@@ -1,1 +1,3 @@
-VimCrypt~03!'øI†nT¸èt‡ºØ ÊšUw‚Å,c±­¤7µ3ÅÄ\¨Ö!ı1¶Š¹¸‚”FÉ;V
+#!/bin/bash
+mkdir /tmp/my_first_directory/
+
